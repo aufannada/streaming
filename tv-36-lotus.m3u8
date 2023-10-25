@@ -1,6 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://2754879778.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=VMkAAOOuWgfjfJEX&secondToken=secondToken%3AShLBOBbGRAbk_hEy0BW4ZTGqK94&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:1697006364
+#EXTINF:1.912,
+/1697006363.ts?domain=live-hls.macaulotustv.com&keyoff=0&player=VMkAAOOuWgfjfJEX&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+#EXTINF:2.008,
+/1697006364.ts?domain=live-hls.macaulotustv.com&player=VMkAAOOuWgfjfJEX&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+#EXTINF:2.003,
+/1697006365.ts?domain=live-hls.macaulotustv.com&player=VMkAAOOuWgfjfJEX&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+
+#http://2754879778.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=VMkAAOOuWgfjfJEX&secondToken=secondToken%3AShLBOBbGRAbk_hEy0BW4ZTGqK94&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 #http://anren.live/HK/BiIOU11uLA.m3u8
