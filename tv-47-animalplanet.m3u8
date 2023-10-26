@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+
+#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#https://kusnadipepenk.github.io/ntn/animal.m3u8
