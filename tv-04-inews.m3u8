@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_1000000=4-mp4a_98800_eng=3.m3u8
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800=3.m3u8
 
 #https://tv.okezone.com/streaming/inews_tv
 #https://kusnadipepenk.github.io/campeign/inews.m3u8
+#https://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_1000000=4-mp4a_98800_eng=3.m3u8
