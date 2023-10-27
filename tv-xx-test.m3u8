@@ -1,7 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683149&extension=m3u8
+
+#TVN
+#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8
 
 #NICKELODEON JUNIOR
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174893&extension=m3u8&play_token=xdbt7BgLik
@@ -29,7 +32,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&exten
 
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174764&extension=m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
-#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683149&extension=m3u8
+#
 #
 #
 #
