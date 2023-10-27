@@ -1,14 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174764&extension=m3u8
 
-#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174764&extension=m3u8
-#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174628&extension=m3u8&play_token=xdbt7BgLik
+#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683149&extension=m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8
-#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683154&extension=m3u8
-#http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174893&extension=m3u8&play_token=xdbt7BgLik
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=994885&extension=m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=156389&extension=m3u8
@@ -16,3 +13,5 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&exten
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683142&extension=m3u8&play_token=xdbt7BgLik
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683110&extension=m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683101&extension=m3u8
+#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683154&extension=m3u8
+#http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
