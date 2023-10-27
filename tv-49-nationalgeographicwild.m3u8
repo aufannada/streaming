@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174764&extension=m3u8
+
+#https://kusnadipepenk.github.io/ntn/wild.m3u8
