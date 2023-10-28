@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w706180623_b628000_sleng.m3u8
 #https://kusnadipepenk.github.io/campeign/metro.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
