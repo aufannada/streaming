@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://mykingtv.net:2082/amad1234/amad1234/5144
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
 
 #https://tv.okezone.com/streaming/rcti
 #https://kusnadipepenk.github.io/campeign/rcti.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
+#http://mykingtv.net:2082/amad1234/amad1234/5144
