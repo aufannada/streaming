@@ -1,9 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:1
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,AUDIO="URI"
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/Stream(02)/index.m3u8
 
-#https://kusnadipepenk.github.io/ntn/animal.m3u8
-#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,AUDIO="URI"
+##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
+
+##https://kusnadipepenk.github.io/ntn/animal.m3u8
+##https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+##https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
+##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
+##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_19.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/Stream(02)/index.m3u8
