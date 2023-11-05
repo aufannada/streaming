@@ -2,209 +2,311 @@
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 2 - JAKARTA GLOBE NEWS CHANNEL (1)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS7 HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3 - FIRST MEDIA LIFE STYLE (2)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ANTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 14 - BLOOMBERG (3)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",BTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 17 - JTV (4)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",BERITASATU WORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 19 - INVESTOR DAILY TV (5)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 21 - EUROSPORT (6)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",KOMPASTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 23 - KAIROS (7)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",METROTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 29 - DISCOVERY CHANNEL (8)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 31 - ANIMAL PLANET (9)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",GARUDATV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 35 - TLC (10)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 45 - GARUDA TV (11)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HOREE!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 52 - ANIMAX (12)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 61 - TBN ASIA (13)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 76 - ASIAN FOOD NETWORK (14)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TV9 NUSANTARA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 103 - CARTOON NETWORK (15)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",WESTJAVA NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 105 - NICKELODEON (16)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 124 - NICK JR. (17)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA BANDUNG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 128 - DAAI TV (18)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",FIRST WARRIORS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 131 - HISTORY (19)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",FIRST FIRSTMEDIA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 155 - LIFETIME (20)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA MUSLIM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 161 - ZEE BIOSKOP (21)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA BIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 168 - FASHION TV (22)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 173 - SONY ENTERTAINMENT TELEVISION (23)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DANGDUT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 174 - SONY MAX (24)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 204 - CELESTIAL MOVIES (25)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TVRI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 206 - CHINA ??? (26)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",AXN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 208 - CHINA ??? (27)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",PARAMOUNT NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 209 - CCTV 4 (28)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ACTION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 215 - TVB (29)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 216 - CHINA ??? (30)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HITSMOVIE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 217 - CHINA TVBS (31)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HITS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 218 - CHINA ??? (32)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",SONY MAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 219 - CHINA ??? (33)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",KIX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 220 - CHINA ??? (34)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TVN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 221 - CHINA ??? (35)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TVNMOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 223 - NHK WORLD JAPAN (36)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 232 - CNA ASIA (37)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ZEEBIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 236 - CNN (38)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",EUROSPORT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 241 - MTV 90S (39)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CGTN DOCUMENTARY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 242 - MTV LIVE (40)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",DISCOVERY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 245 - ALJAZEERA ARABIC (41)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAL PLANET
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 250 - DEUTSCHE WELLE (DW) (42)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",LOVENATURE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 251 - ABC AUSTRALIA (43)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TECHSTORM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 253 - ARIRANG KOREA (44)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",GLOBAL TREKKER
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 255 - DEUTSCHE WELLE (DW) (45)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",DREAMWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 258 - RAI ITALIA (46)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 260 - TV5 MONDE ASIE (47)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",TLC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 261 - FRANCE 24 (48)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",AFN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 262 - KBS WORLD (49)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",FOOD NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 273 - CGTN (50)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",FASHIONTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 299 - EWTN (51)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",DAVINCI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 302 - DISCOVERY ASIA (52)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 309 - PARAMOUNT NETWORK (53)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",BOOMERANG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 310 - BBC NEWS (54)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 320 - PREMIER SPORTS (55)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKELODEON
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 324 - HITS MOVIES (56)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKJR.
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 326 - HITS (57)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV 90S
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 329 - SPOTV 1 (58)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV STAGE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 332 - AXN (59)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 334 - CITRA MUSLIM (60)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY DJAZZ
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 336 - KIX (61)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CH3888
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 338 - ONE (62)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV 1
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 339 - TVN (63)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV 2 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 341 - EURO NEWS (64)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 343 - TVN MOVIES (65)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",KBS WORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 344 - STINGRAY FESTIVAL 4K (66)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 345 - STINGRAY NOW 4K (67)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HISTORY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 347 - DMAX (68)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
 
-#EXTINF:-1 group-title="FIRSTMEDIA",CRIME+ INVESTIGATION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 349 - CRIME+ INVESTIGATION (69)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 352 - TV9 NU (70)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 354 - HGTV (71)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 355 - FOOD NETWORK (72)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 360 - BTV (73)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 365 - REFORMED (74)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 366 - GLOBAL TREKKER (75)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 367 - STINGRAY NATURESCAPE (76)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 368 - LOVE NATURE (77)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 371 - DA VINCI (78)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 372 - CARTOONITO (79)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 375 - HOREE! (80)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 376 - CITRA BIOSKOP (81)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 377 - CITRA DANGDUT (82)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 378 - CITRA DRAMA (83)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 379 - CITRA ENTERTAINMENT (84)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 389 - IDX CHANNEL (85)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 390 - ANTV (86)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 392 - JAK TV (87)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 394 - METRO TV (88)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 396 - TRANS TV (89)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 397 - TRANS 7 (90)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 398 - TV ONE (91)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 399 - TVRI (92)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 405 - CGTN DOCUMENTARY (93)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 410 - KOMPAS TV (94)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 999 - FIRST WARRIORS (95)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 2411 - CNBC (96)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2411%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3300 - SPOTV 2 (97)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3344 - STINGRAY DJAZZ (98)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3400 - GEM (99)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3888 - PRAISE (100)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3900 - SHINE (101)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3922 - LIGHT (102)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TV 3981 - RT NEWS (103)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8
