@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/stream3/streamPlaylist.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/Stream(02)/index.m3u8
 
 ##http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 ##http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/stream3/streamPlaylist.m3u8
