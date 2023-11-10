@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://sc2022.stream-link.org/tv2306.php?id=s19
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+##https://sc2022.stream-link.org/tv2306.php?id=s19
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1016544&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=115615&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341538&extension=m3u8&play_token=
