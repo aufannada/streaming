@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://failarmy-international-in.samsung.wurl.tv/1200.m3u8
+https://linear-198.frequency.stream/mt/ottera/198/hls/master/playlist_640x360.m3u8
 
 ##http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 ##http://failarmy-international-in.samsung.wurl.tv/1200.m3u8
