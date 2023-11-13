@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
 
 ##https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
-##http://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
-##http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
