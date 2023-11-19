@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3438000,AVERAGE-BANDWIDTH=3105000
-http://103.166.27.2:8112/play/a01e/71487875.m3u8
+https://open.spotify.com/embed/playlist/4uwy1cRZ8avlyPPR0Oxcb2
+
+##http://103.166.27.2:8112/play/a01e/71487875.m3u8
 
 ###EXTM3U
 ###EXT-X-VERSION:1
