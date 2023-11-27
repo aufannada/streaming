@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=m3u8&play_token=GVZS088tcf
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1261564&extension=m3u8
 
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111034 | Astro Supersport 1
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111033 | Astro Supersport 2
@@ -14,10 +14,12 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&ex
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=918983&extension=m3u8 | Astro Supersport 4
 ##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=918983&extension=m3u8 | Astro Supersport 4
 
+##http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=m3u8&play_token=GVZS088tcf | RCTI
+##http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=m3u8&play_token=GVZS088tcf | RCTI
+
 ##https://ddy4.hlsjs.ru/ddy4/premium123/tracks-v1a1/mono.m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1261564&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93915&extension=m3u8&play_token=
 ##https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 ##http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60480
-##http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=m3u8&play_token=GVZS088tcf | RCTI
-##http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=m3u8&play_token=GVZS088tcf
+
