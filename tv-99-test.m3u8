@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1261564&extension=m3u8
+https://ddy4.hlsjs.ru/ddy4/premium123/tracks-v1a1/mono.m3u8
 
+##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1261564&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93915&extension=m3u8&play_token=
 ##https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 ##http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60480
