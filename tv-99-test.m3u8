@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=m3u8&play_token=GVZS088tcf
 
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111034 | Astro Supersport 1
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111033 | Astro Supersport 2
