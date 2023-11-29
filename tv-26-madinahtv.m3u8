@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://m.live.net.sa:1935/live/sunnah/chunklist_w1834160361.m3u8
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1701233827~dirs=1~hash=09059484ebb3d17f02af4/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8
 
 ##https://edge.taghtia.com/sa/6.m3u8
 ##https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
