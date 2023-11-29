@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=571248&extension=m3u8
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1701231573~dirs=1~hash=014b3922d271c2eadffae/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8
+
+##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=571248&extension=m3u8
 
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111034 | Astro Supersport 1
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111033 | Astro Supersport 2
