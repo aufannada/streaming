@@ -1,9 +1,7 @@
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/60291
-
-##EXTM3U
-##EXT-X-VERSION:1
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-##http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=m3u8&play_token=GVZS088tcf
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=m3u8&play_token=GVZS088tcf
 
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111034 | Astro Supersport 1
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111033 | Astro Supersport 2
