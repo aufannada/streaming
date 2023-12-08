@@ -7,7 +7,7 @@ http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 ##EXTM3U
 ##EXT-X-VERSION:1
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683089
+##http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 
 ##https://kusnadipepenk.github.io/ntn/wild.m3u8
 ##http://50.7.137.106:8080/NAT_GEO_WILD/tracks-v1a1/mono.m3u8
