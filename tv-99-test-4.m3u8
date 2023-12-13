@@ -1,15 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-##EXTM3U
-##EXT-X-VERSION:1
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-##http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
-##http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=m3u8&play_token=GVZS088tcf
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=m3u8&play_token=GVZS088tcf
 
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111034 | Astro Supersport 1
 ##http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=1111033 | Astro Supersport 2
