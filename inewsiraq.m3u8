@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiq_480p_chunks.m3u8
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq_480p/chunks.m3u8
 
 ##https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 ##https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq_480p/chunks.m3u8
