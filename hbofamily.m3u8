@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
 
-##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
-
-##http://173.225.246.25:8889/udp/239.203.20.120:4003
+##https://aufannada.github.io/streaming/hbofamily.m3u8
