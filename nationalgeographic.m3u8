@@ -1,8 +1,13 @@
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="eng a2",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="eng",URI="http://45.159.74.13/NationalGeographic/tracks-a2/mono.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,AUDIO="URI"
-http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://103.113.116.150:25461/mtm1/12345/86
+
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="eng a2",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="eng",URI="http://45.159.74.13/NationalGeographic/tracks-a2/mono.m3u8"
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,AUDIO="URI"
+##http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
 
 ##EXTM3U
 ##EXT-X-VERSION:1
@@ -11,6 +16,7 @@ http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/nationalgeographic.m3u8
 ##https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+##http://103.113.116.150:25461/mtm1/12345/86
 ##http://45.159.74.13/NationalGeographic/index.m3u8
 ##http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
 ##http://likea8bitboss.xyz:80/641g82A49/5328014769/363
