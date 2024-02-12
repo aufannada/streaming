@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=m3u8&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
-
-##https://tv.okezone.com/streaming/rcti
+##https://aufannada.github.io/streaming/rcti.m3u8
 ##https://kusnadipepenk.github.io/campeign/rcti.m3u8
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
+
 ##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157591
 ##http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/60479
 ##http://mykingtv.net:2082/amad1234/amad1234/5144
 ##https://mantul.biz.id:443/ekos/748382/190.m3u8
-
+##https://tv.okezone.com/streaming/rcti
 ##https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
