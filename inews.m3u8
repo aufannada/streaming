@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=m3u8
 
 ##https://aufannada.github.io/streaming/inews.m3u8
 ##https://kusnadipepenk.github.io/campeign/inews.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683193&extension=m3u8
 
 ##http://103.113.116.150:25461/mtm1/12345/8
-#https://mangga-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_1000000=4-mp4a_98800_eng=3.m3u8
+##https://mangga-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_1000000=4-mp4a_98800_eng=3.m3u8
 ##http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/60291
 ##https://mantul.biz.id:443/ekos/748382/193.m3u8
 ##https://tv.okezone.com/streaming/inews_tv
