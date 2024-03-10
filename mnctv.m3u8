@@ -1,14 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683098&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=m3u8
 
 ##https://aufannada.github.io/streaming/mnctv.m3u8
 ##https://kusnadipepenk.github.io/campeign/mnc.m3u8
+##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683098&extension=m3u8
+
 ##http://103.113.116.150:25461/mtm1/12345/6
 ##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
-
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683098&extension=m3u8&play_token=xdbt7BgLik
+#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683098&extension=m3u8&play_token=xdbt7BgLik
 ##https://tv.okezone.com/streaming/mnc_tv
 ##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165054
 ##https://mantul.biz.id:443/ekos/748382/191.m3u8
