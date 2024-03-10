@@ -3,17 +3,11 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-##EXTM3U
-##EXT-X-VERSION:4
-##EXT-X-INDEPENDENT-SEGMENTS
-##EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/06.m3u8"
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1480567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/03.m3u8
-
+##https://aufannada.github.io/streaming/rtv.m3u8
 ##https://kusnadipepenk.github.io/campeign/rtv.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
+
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/03.m3u8
