@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Stream(02)/index.m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683194&extension=m3u8
+
+##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=683194&extension=m3u8
 
 ##https://aufannada.github.io/streaming/metrotv.m3u8
 ##https://kusnadipepenk.github.io/campeign/metro.m3u8
@@ -11,7 +13,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Strea
 ##https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Stream(02)/index.m3u8
-
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
