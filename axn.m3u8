@@ -1,11 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683144&extension=m3u8
 
 ##https://kusnadipepenk.github.io/ntn/axn.m3u8
 ##http://202.150.172.59:80/AXN/tracks-v1a1/mono.m3u8
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683144&extension=m3u8
+
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
