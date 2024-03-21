@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:00:01:DF&stream=683155&extension=m3u8
+
+##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=m3u8
 
 ##https://aufannada.github.io/streaming/zeebioskop.m3u8
 ##https://kusnadipepenk.github.io/campeign/zeeb.m3u8
