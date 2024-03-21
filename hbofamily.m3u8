@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.113.116.150:25461/mtm1/12345/19
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=154862&extension=m3u8
 
 ##https://aufannada.github.io/streaming/hbofamily.m3u8
+
 ##http://103.113.116.150:25461/mtm1/12345/19
 ##http://likea8bitboss.xyz:80/641g82A49/5328014769/742646
 ##http://170.254.18.106:80/HBO_FAMILY/index.m3u8
