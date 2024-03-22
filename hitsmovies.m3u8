@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=am=683163&extension=m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683163&extension=m3u8
 
 ##https://aufannada.github.io/streaming/hitsmovies.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
