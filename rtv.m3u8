@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683095&extension=m3u8
 
 ##https://aufannada.github.io/streaming/rtv.m3u8
 ##https://kusnadipepenk.github.io/campeign/rtv.m3u8
