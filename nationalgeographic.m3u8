@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=174762&extension=m3u8
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=174762&extension=m3u8
 
 ##EXTM3U
 ##EXT-X-VERSION:1
@@ -19,8 +19,10 @@ http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=174762&exten
 ##http://103.113.116.150:25461/mtm1/12345/86
 ##http://45.159.74.13/NationalGeographic/index.m3u8
 ##http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
-##http://likea8bitboss.xyz:80/641g82A49/5328014769/363
+##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=174762&extension=m3u8
+##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=174762&extension=m3u8
 
+##http://likea8bitboss.xyz:80/641g82A49/5328014769/363
 ##http://45.159.74.13/NationalGeographic/tracks-v1a2/mono.m3u8
 ##http://195.181.169.162/US_National_Geographic_Channel/tracks-v1a1/mono.m3u8
 ##http://173.225.246.25:8889/udp/239.203.20.73:4003
