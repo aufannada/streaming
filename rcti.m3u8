@@ -1,12 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="NATIONAL",RCTI (Ott)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
-##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m3u8
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m3u8
 
 ##https://aufannada.github.io/streaming/rcti.m3u8
 ##https://kusnadipepenk.github.io/campeign/rcti.m3u8
