@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=174628&extension=m3u8
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=45587&extension=m3u8
 
 ##https://aufannada.github.io/streaming/disneychannel.m3u8
 ##https://kusnadipepenk.github.io/campeign/disch.m3u8
