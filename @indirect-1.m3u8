@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:BF:7A:31&stream=56674&extension=m3u8
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683138&extension=m3u8
 
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=941567&extension=m3u8  | Bein Sports 3
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683138&extension=m3u8  | Bein Sports 2
