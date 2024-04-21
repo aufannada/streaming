@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683181&extension=m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 ##https://aufannada.github.io/streaming/metrotv.m3u8
 ##https://kusnadipepenk.github.io/campeign/metro.m3u8
