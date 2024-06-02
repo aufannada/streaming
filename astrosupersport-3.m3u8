@@ -1,12 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571247&extension=m3u8
+https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
 
 ##https://aufannada.github.io/streaming/astrosupersport-3.m3u8
 ##https://kusnadipepenk.github.io/ntn/asp3.m3u8
-##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=1111032&extension=m3u8
-##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=1111032&extension=m3u8
 
 ##http://103.113.116.150:25461/mtm1/12345/49
 ##http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
@@ -26,3 +24,6 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571247&extension
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341541&extension=m3u8&play_token=
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571247&extension=m3u8&play_token=xdbt7BgLik
 ##http://iptvmedia.live:8080/live/iptvepic4/7VPACNHyhD6Bum5L/157557.m3u8
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571247&extension=m3u8
+##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=1111032&extension=m3u8
+##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=1111032&extension=m3u8
