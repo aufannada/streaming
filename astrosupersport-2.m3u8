@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571248&extension=m3u8
+https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
 
 ##https://aufannada.github.io/streaming/astrosupersport-2.m3u8
 ##https://kusnadipepenk.github.io/ntn/asp2.m3u8
@@ -25,3 +25,4 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571248&extension
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115616&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341540&extension=m3u8&play_token=
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571248&extension=m3u8&play_token=xdbt7BgLik
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571248&extension=m3u8
