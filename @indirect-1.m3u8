@@ -1,12 +1,7 @@
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS PREMIUM",Astro Supersport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
-
-##EXTM3U
-##EXT-X-VERSION:1
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-##https://idn00052.tigoals75.com/football/2582404-indonesia-vs-tanzania.html
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://idn00052.tigoals75.com/football/2582404-indonesia-vs-tanzania.html
 
 ##https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
 
