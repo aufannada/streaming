@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://z88.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/351034.ts
+
+##https://z88.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
 
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=941564&extension=m3u8
 
