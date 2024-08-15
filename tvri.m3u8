@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-group1-swiftservehd-1.dens.tv/s/s11/01.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
 ##https://aufannada.github.io/streaming/tvri.m3u8
 ##http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 ##http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/stream3/streamPlaylist.m3u8
-##https://op-group1-swiftservehd-1.dens.tv/s/s11/index.m3u8
-##https://op-group1-swiftservehd-1.dens.tv/s/s11/01.m3u8
+##https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+##https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h237/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683195&extension=m3u8
