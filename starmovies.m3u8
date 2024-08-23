@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+##http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 ##https://aufannada.github.io/streaming/starmovies.m3u8
 ##https://kusnadipepenk.github.io/ntn/strmvi.m3u8
