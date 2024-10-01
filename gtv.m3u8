@@ -1,15 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://1s1.rctiplus.id/gtv2023-avc1_1800000=6-mp4a_106400_eng=9.m3u8
 
 ##https://aufannada.github.io/streaming/gtv.m3u8
-##https://kusnadipepenk.github.io/campeign/global.m3u8
+##https://1s1.rctiplus.id/gtv2023.m3u8
+
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+##EXTVLCOPT:http-user-agent=android-R+
+##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683121&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=m3u8
-
 ##http://103.113.116.150:25461/mtm1/12345/7
 ##http://iptvmedia.live:8080/F31513/0a3204ef/157578
 ##https://tv.okezone.com/streaming/gtv
