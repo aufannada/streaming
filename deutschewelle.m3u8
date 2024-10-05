@@ -3,12 +3,11 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-##https://op-group2-swiftservesd-1.dens.tv/s/s11/S1/mnf.m3u8
-
 ##https://aufannada.github.io/streaming/deutschewelle.m3u8
 ##https://op-group2-swiftservesd-1.dens.tv/s/s11/S1/mnf.m3u8
+##https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683192&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683192&extension=m3u8
-
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(02)/index.m3u8
