@@ -2,6 +2,7 @@
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+httpS://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 ##https://aufannada.github.io/streaming/btv.m3u8
 ##http://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
