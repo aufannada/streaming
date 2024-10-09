@@ -1,7 +1,15 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,RESOLUTION=768x432,CLOSED-CAPTIONS=NONE,AUDIO="aac"
+chunklist_b2700000_vo.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360,CLOSED-CAPTIONS=NONE,AUDIO="aac"
+chunklist_b1000000_vo.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="spa",NAME="Spanish",DEFAULT=YES,URI="chunklist_b128000_ao_slspa_t64U3BhbmlzaA==.m3u8"
+
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+##http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/disneychannel.m3u8
 ##https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
