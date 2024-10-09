@@ -1,14 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="spa",NAME="Spanish",DEFAULT=YES,URI="https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/chunklist_b128000_ao_slspa_t64U3BhbmlzaA==.m3u8"
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/chunklist_b2700000_vo.m3u8
-
-##https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
-##http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/disneychannel.m3u8
+##https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+##http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 
 ##http://103.197.59.107:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=174628&extension=m3u8
