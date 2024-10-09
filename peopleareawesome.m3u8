@@ -1,12 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://jukin-peopleareawesome-2-in.samsung.wurl.tv/1200.m3u8
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/3000.m3u8.m3u8
 
 ##https://aufannada.github.io/streaming/peopleareawesome.m3u8
-##https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
-##https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/1200.m3u8
 ##https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
-##https://jukin-peopleareawesome-2-in.samsung.wurl.tv/1200.m3u8
+##https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+
 ##https://linear-175.frequency.stream/mt/ottera/175/hls/master/playlist.m3u8
-##https://linear-175.frequency.stream/mt/ottera/175/hls/master/playlist_640x360.m3u8
