@@ -7,14 +7,15 @@ http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
 ##EXTM3U
 ##EXT-X-VERSION:1
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-##http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
+##http://119.156.26.155:8000/play/a06r/index.m3u8
 
 ##https://aufannada.github.io/streaming/nationalgeographic.m3u8
-##https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+##http://119.156.26.155:8000/play/a06r/index.m3u8
+##http://45.159.74.13/NationalGeographic/index.m3u8
+
 ##http://103.113.116.150:25461/mtm1/12345/86
 ##http://45.159.74.13/NationalGeographic/index.m3u8
 ##http://45.159.74.13/NationalGeographic/tracks-v1a1/mono.m3u8
-
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=174762&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=174762&extension=m3u8
 ##http://likea8bitboss.xyz:80/641g82A49/5328014769/363
