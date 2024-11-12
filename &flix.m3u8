@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://4ksuper.live/play/live.php?mac=00:1a:79:bf:a2:3b&stream=1116484&extension=m3u8
+http://119.156.26.155:8000/play/a06x/index.m3u8
 
 ##https://aufannada.github.io/streaming/&flix.m3u8
+##http://119.156.26.155:8000/play/a06x/index.m3u8
 
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=155990&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=155990&extension=m3u8
