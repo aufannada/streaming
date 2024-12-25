@@ -1,10 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension=m3u8
+https://cdn09jtedge.indihometv.com/joss/133/afc/chunklist_w1571877984_b1544100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/asianfoodnetwork.m3u8
+##https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension=m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=534440&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=534440&extension=m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
