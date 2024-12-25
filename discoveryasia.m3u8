@@ -3,11 +3,9 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/chunklist_w589334806_b1544100_sleng.m3u8
 
-##https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_1499968=1-mp4a_208000_eng=7.m3u8
-
 ##https://aufannada.github.io/streaming/discoveryasia.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-##https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
+##https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/Stream(02)/index.m3u8
