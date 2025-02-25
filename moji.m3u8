@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?app_type=web&userid=lite
+https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?app_type=web&userid=lite
 
 ##https://cdn13jtedge.indihometv.com/joss/134/ochannel/chunklist_w1207370385_b1044100_sleng.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/134/ochannel/chunklist_w1207370385_b1044100_sleng.m3u8
