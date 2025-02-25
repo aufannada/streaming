@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/chunklist_w2018238476_b1544100_sleng.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd?encp=&uid=&expp=
 
 ##https://aufannada.github.io/streaming/animalplanet.m3u8
-##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd?encp=&uid=&expp=
 
 ##EXTM3U
 ##EXT-X-VERSION:4
@@ -13,6 +13,8 @@ https://cdn09jtedge.indihometv.com/joss/194/animalplanet/chunklist_w2018238476_b
 ##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
 ##EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
 
+##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/chunklist_w2018238476_b1544100_sleng.m3u8
 ##https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 ##https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
