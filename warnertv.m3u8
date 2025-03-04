@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.113.116.150:25461/mtm1/12345/24
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 ##https://aufannada.github.io/streaming/warnertv.m3u8
-##https://kusnadipepenk.github.io/ntn/wrnr.m3u8
+##https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+
 ##http://103.113.116.150:25461/mtm1/12345/24
 ##http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 ##http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
 ##http://168.197.196.98:9981/stream/channelid/757968981?profile=pass
-
 ##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/157594
 ##http://173.225.246.25:8889/udp/239.203.20.175:4003
