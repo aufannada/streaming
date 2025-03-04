@@ -1,7 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/Stream(02)/index.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+
+##https://aufannada.github.io/streaming/cartoonito.m3u8
+##http://cdn.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
 
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/Stream(02)/index.m3u8
