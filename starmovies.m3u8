@@ -1,10 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://openhls-hw.douyucdn2.cn/live/747764rm7U0oOQmd_2000.m3u8?txSecret=2b9fddb6c1cd8e9dedc51fa52c173f5c&txTime=67a64707&token=h5-douyu-0-747764-7dff54521df06887fecf113934fc784d&did=10000000000000000000000000001501&origin=hw&vhost=play2&sid=407534254
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 
 ##https://aufannada.github.io/streaming/starmovies.m3u8
+##https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 ##http://epg.112114.xyz/douyu/747764
+##https://openhls-hw.douyucdn2.cn/live/747764rm7U0oOQmd_2000.m3u8?txSecret=2b9fddb6c1cd8e9dedc51fa52c173f5c&txTime=67a64707&token=h5-douyu-0-747764-7dff54521df06887fecf113934fc784d&did=10000000000000000000000000001501&origin=hw&vhost=play2&sid=407534254
 
 ##http://119.156.26.155:8000/play/a06q/index.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
