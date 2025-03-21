@@ -1,11 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://212.102.60.231/LIFETIME/tracks-v1a1/mono.m3u8
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 ##https://aufannada.github.io/streaming/lifetime.m3u8
-##http://212.102.60.231/LIFETIME/index.m3u8
+##http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+##http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/tracks-v1a1/mono.m3u8
 
+##http://212.102.60.231/LIFETIME/index.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683129&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683129&extension=m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
