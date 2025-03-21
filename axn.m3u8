@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1500000=5-mp4a_96000=2.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
 ##https://aufannada.github.io/streaming/axn.m3u8
-##https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
+##http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683144&extension=m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683144&extension=m3u8
@@ -14,3 +14,5 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1500000=5-mp4a_96000=2
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
+##https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
+##https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1500000=5-mp4a_96000=2.m3u8
