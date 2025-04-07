@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://live-c.cf.dmcdn.net/sec2(krieBxWupoa8z970DXvrZRQ1gS19m2ZITBSD8TS18k_B05jZl-LIv8UBGBbvlgfso5-YoRAU605iok1AueD_irhQpo_KucVLBDUmAKVHZlzqZL8khEMe-UMbGKPFQjGq)/dm/3/x8qckyq/s/live-720.m3u8#cell=lcfc
 
-##https://live-c.cf.dmcdn.net/sec2(krieBxWupoa8z970DXvrZRQ1gS19m2ZITBSD8TS18k_B05jZl-LIv8UBGBbvlgfso5-YoRAU605iok1AueD_irhQpo_KucVLBDUmAKVHZlzqZL8khEMe-UMbGKPFQjGq)/dm/3/x8qckyq/s/live-720.m3u8#cell=lcfc
-
-##http://video.detik.com/trans7/smil:trans7.smil/chunklist_w2083019436_b744100_sleng.m3u8
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2083019436_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/trans7.m3u8
 ##https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
