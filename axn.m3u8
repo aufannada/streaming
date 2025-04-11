@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
 ##https://aufannada.github.io/streaming/axn.m3u8
+##http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 ##http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683144&extension=m3u8
