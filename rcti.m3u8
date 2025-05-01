@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+##https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 ##https://aufannada.github.io/streaming/rcti.m3u8
 ##https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
