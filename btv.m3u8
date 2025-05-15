@@ -1,12 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-1920x1080.m3u8
 
 ##https://aufannada.github.io/streaming/btv.m3u8
-##https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+##https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-1920x1080.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
+##https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683182&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683182&extension=m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
