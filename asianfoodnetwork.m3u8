@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://fl5.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+
 
 ##https://aufannada.github.io/streaming/asianfoodnetwork.m3u8
-##http://fl5.moveonjoy.com/FOOD_NETWORK/index.m3u8
-##http://fl5.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+##
+##
 
 ##https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/133/afc/chunklist_w1571877984_b1544100_sleng.m3u8
