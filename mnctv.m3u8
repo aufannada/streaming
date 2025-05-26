@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+http://50.7.234.10:8278/Mnctv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8755d531c2a9d73f0ded6f084aa1d929
+
+##https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 ##https://aufannada.github.io/streaming/mnctv.m3u8
 ##https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
