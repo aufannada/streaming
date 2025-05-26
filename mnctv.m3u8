@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-
-##https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 ##https://aufannada.github.io/streaming/mnctv.m3u8
 ##https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
