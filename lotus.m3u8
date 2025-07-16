@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://tv.cloudcdn.me/live.m3u8?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 ##https://aufannada.github.io/streaming/lotus.m3u8
 ##https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -12,3 +12,4 @@ http://tv.cloudcdn.me/live.m3u8?channelId=129287&uid=14505&deviceMac=00:1A:79:A7
 ##https://p.ggiptv.com/v/macaulotustv.php
 ##http://iptvtree.net:8080/live/9a9c2e24/d3850543/304362.m3u8
 ##https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_2000000=292-mp4a_128000_eng=261.m3u8
+##http://tv.cloudcdn.me/live.m3u8?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
