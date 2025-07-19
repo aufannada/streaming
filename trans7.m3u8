@@ -1,10 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w42050506_b744100_sleng.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w42050506_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/trans7.m3u8
 ##https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Stream(02)/index.m3u8
