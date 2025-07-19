@@ -1,10 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+##https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 ##https://aufannada.github.io/streaming/antv.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683153&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683153&extension=m3u8
