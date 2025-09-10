@@ -3,11 +3,11 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 http://103.179.182.117:6768/hls/30/30.m3u8
 
-##http://212.102.60.231/HBO_FAMILY/tracks-v1a1/mono.m3u8
-
 ##https://aufannada.github.io/streaming/hbofamily.m3u8
-##http://212.102.60.231/HBO_FAMILY/index.m3u8
+##http://103.179.182.117:6768/hls/30/30.m3u8
 
+##http://212.102.60.231/HBO_FAMILY/index.m3u8
+##http://212.102.60.231/HBO_FAMILY/tracks-v1a1/mono.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=154862&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=154862&extension=m3u8
 ##http://103.113.116.150:25461/mtm1/12345/19
