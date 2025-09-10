@@ -1,14 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
-
-##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd?encp=&uid=&expp=
+http://103.179.182.117:6768/hls/50/50.m3u8
 
 ##https://aufannada.github.io/streaming/moji.m3u8
+##http://103.179.182.117:6768/hls/50/50.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite
 ##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd?encp=&uid=&expp=
 
+##http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd?encp=&uid=&expp=
 ##https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 ##https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ##https://s.id/1YseN
