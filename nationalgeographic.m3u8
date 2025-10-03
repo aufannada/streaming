@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://fl25.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+https://maldivesn.net/hilaytv/natgeo
+
+##https://fl25.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 
 ##https://aufannada.github.io/streaming/nationalgeographic.m3u8
 ##https://fl25.moveonjoy.com/National_Geographic/index.m3u8
