@@ -1,9 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+http://tv.casindo.org/hls/86/86.m3u8
+
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 ##https://aufannada.github.io/streaming/spotv-2.m3u8
+##http://tv.casindo.org/hls/86/86.m3u8
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 ##http://home-tv.online/live/Karena/Karena123/324.m3u8
