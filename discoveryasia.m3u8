@@ -1,10 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd?encp=&uid=&expp=
+http://tv.casindo.org/hls/65/65.m3u8
+
+##https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd?encp=&uid=&expp=
 
 ##https://aufannada.github.io/streaming/discoveryasia.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd?encp=&uid=&expp=
+##http://tv.casindo.org/hls/65/65.m3u8
+##https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd?encp=&uid=&expp=
 
 ##https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/chunklist_w589334806_b1544100_sleng.m3u8
