@@ -1,11 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+http://tv.casindo.org/hls/41/41.m3u8
+
+##https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 ##https://aufannada.github.io/streaming/warnertv.m3u8
 ##https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-##http://103.179.182.117:6768/hls/41/41.m3u8
+##http://tv.casindo.org/hls/41/41.m3u8
 ##https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 ##https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
