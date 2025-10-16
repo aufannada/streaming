@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://212.102.60.231/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+http://212.102.60.231/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 ##https://aufannada.github.io/streaming/foodnetwork.m3u8
-##http://fl25.moveonjoy.com/FOOD_NETWORK/index.m3u8
-##http://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
-##http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
-##http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-##https://212.102.60.231/FOOD_NETWORK/index.m3u8
+##https://fl25.moveonjoy.com/FOOD_NETWORK/index.m3u8
+##https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+##https://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+##https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+##http://212.102.60.231/FOOD_NETWORK/index.m3u8
 
 ##EXTM3U
 ##EXT-X-VERSION:4
