@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://212.102.60.231/Discovery_Channel/tracks-v1a1/mono.m3u8
+http://212.102.60.231/Discovery_Channel/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/discovery.m3u8
 ##https://fl25.moveonjoy.com/Discovery_Channel/index.m3u8
 ##https://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
 ##https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 ##https://fl2.moveonjoy.com/Discovery_Channel/index.m3u8
-##https://212.102.60.231/Discovery_Channel/index.m3u8
+##http://212.102.60.231/Discovery_Channel/index.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 ##https://cdn09jtedge.indihometv.com/joss/133/disco/chunklist_w866997757_b1544100_sleng.m3u8
 ##http://38.96.178.201:80/live/Discovery/index.m3u8
