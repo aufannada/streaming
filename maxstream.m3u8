@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://tv.casindo.org/hls/76/76.m3u8
+
+##https://aufannada.github.io/streaming/maxstream.m3u8
+##http://tv.casindo.org/hls/23/23.m3u8
+##http://tv.casindo.org/hls/76/76.m3u8
+##https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
