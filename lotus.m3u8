@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+https://live-hls.macaulotustv.com/lotustv/lotustv.m3u8
+
+##http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 ##https://aufannada.github.io/streaming/lotus.m3u8
 ##https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
