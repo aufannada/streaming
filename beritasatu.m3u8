@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-
-##https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd?encp=&uid=&expp=
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 ##https://aufannada.github.io/streaming/beritasatu.m3u8
+
 ##https://op-group1-swiftservehd-1.dens.tv/h/h128/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 ##https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd?encp=&uid=&expp=
 ##https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-
+##https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+##https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd?encp=&uid=&expp=
 ##https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/Stream(02)/index.m3u8
