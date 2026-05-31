@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://ottbanglaplatform.com/tv/toffee/live.php?cid=sony_sports_1_hd&chunks=4776e8f8b535f4b0b1c814a38eeaa1fceb0d9aace5be090890bcc4cf76773318cf5456439e73b05e4c9fb9203117deb91475bdf6b7fecd3c4cd9f237a6a0d65ff12f0feb50b3787a1b10d30686f3cb9276e029e20401d7434aa2b2d3df42fdb47e8eb16352e433daa3f51c32de7af860
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
 ##http://179.60.51.134:8888/ESPN/tracks-v1a1/mono.m3u8
 
