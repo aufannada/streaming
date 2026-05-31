@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-##https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+http://103.58.160.157:8278/720-TVONE/playlist.m3u8
 
 ##https://aufannada.github.io/streaming/tvone.m3u8
+
 ##https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 ##https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
-
+##https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+##https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ##https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683101&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683101&extension=m3u8
