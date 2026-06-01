@@ -1,10 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/paramountnetwork.m3u8
 
+##http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 ##https://jmp2.uk/sam-USAJ26000054W.m3u8
 ##https://fl25.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 ##https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
