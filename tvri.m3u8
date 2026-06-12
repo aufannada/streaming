@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
-
-##https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-##https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 
 ##https://aufannada.github.io/streaming/tvri.m3u8
 
+##https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+##https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+##https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 ##http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 ##https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h237/index.m3u8
