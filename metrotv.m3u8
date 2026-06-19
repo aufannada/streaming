@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1048
+
+##https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 ##http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 
