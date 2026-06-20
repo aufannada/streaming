@@ -1,7 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+http://103.137.83.62:9090/play/12/65578089.m3u8
+
+##http://103.137.83.62:9090/play/12/index.m3u8
+
+##http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
 ##https://aufannada.github.io/streaming/rcti.m3u8
 
