@@ -3,8 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 http://119.82.250.109:8080/nl.m3u8?id=1137
 
-##http://103.58.160.157:8278/720-AXN/playlist.m3u8
-
 ##https://aufannada.github.io/streaming/axn.m3u8
 
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
@@ -20,3 +18,4 @@ http://119.82.250.109:8080/nl.m3u8?id=1137
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
 ##https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
 ##https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1500000=5-mp4a_96000=2.m3u8
+##http://103.58.160.157:8278/720-AXN/playlist.m3u8
