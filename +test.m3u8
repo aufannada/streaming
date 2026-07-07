@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1783444583-0-0-dfbeeb794195fa310464c599b160c02b
-https://103.205.133.70/tsports/tracks-v1a1/mono.ts.m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8
 
 ##http://119.82.250.109:8080/nl.m3u8?id=1048
 
