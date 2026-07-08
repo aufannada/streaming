@@ -1,12 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/480p/index.m3u8
-
-##https://op-flashcon-digdayahd-1.dens.tv/h/h209/02.m3u8
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/1080p/index.m3u8
 
 ##https://aufannada.github.io/streaming/beritasatu.m3u8
 
+##https://op-flashcon-digdayahd-1.dens.tv/h/h209/02.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h128/index.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
