@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://op-flashcon-digdayahd-1.dens.tv/h/h210/02.m3u8
 http://119.82.250.109:8080/nl.m3u8?id=1161
 
 ##https://aufannada.github.io/streaming/btv.m3u8
 
 ##http://119.82.250.109:8080/nl.m3u8?id=1161
+##https://op-flashcon-digdayahd-1.dens.tv/h/h210/02.m3u8
 ##http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
 ##https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-1920x1080.m3u8
 ##https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
