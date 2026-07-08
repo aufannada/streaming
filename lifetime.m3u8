@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://206.212.244.63/103/index.m3u8
+http://206.212.244.63/103/tracks-v1a1/mono.m3u8
+
+##http://206.212.244.63/103/index.m3u8
 
 ##http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
 
