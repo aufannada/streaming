@@ -1,12 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://66.102.126.10:8000/play/a021/63511673.m3u8
-##http://66.102.126.10:8000/play/a021/21593737.m3u8
-
-##http://66.102.126.10:8000/play/a021/index.m3u8
-
-##https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 
 ##https://aufannada.github.io/streaming/starmovies.m3u8
 
