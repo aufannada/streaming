@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://119.82.250.109:8080/nl.m3u8?id=1002
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1528991556_b744100_sleng.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
+##http://119.82.250.109:8080/nl.m3u8?id=1002
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1528991556_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/trans7.m3u8
 
