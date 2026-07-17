@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://185.246.209.113/LOVENATUREHD/tracks-v1a1/mono.m3u8
-
-##http://185.246.209.113:80/LOVENATUREHD/index.m3u8
+http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
 
 ##https://aufannada.github.io/streaming/lovenature.m3u8
 
+##http://185.246.209.113/LOVENATUREHD/tracks-v1a1/mono.m3u8
+##http://185.246.209.113:80/LOVENATUREHD/index.m3u8
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 ##http://143.244.60.30/LOVE_NATURE/index.m3u8
 ##http://143.244.60.30/LOVE_NATURE/tracks-v1a1/mono.m3u8
