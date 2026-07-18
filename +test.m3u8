@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,CODECS="avc1.42e01f,mp4a.40.2"
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+##http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 ##http://40.160.24.55/TSN_4/tracks-v1a1/mono.ts.m3u8
 
 ##https://pull.niues.live/live/stream-9912060_lsd.m3u8
 
-##http://119.82.250.109:8080/nl.m3u8?id=1048
+http://119.82.250.109:8080/nl.m3u8?id=1048
 
 ##http://103.148.44.38:8000/play/a00h/index.m3u8
 
