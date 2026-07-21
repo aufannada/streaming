@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,USER-AGENT="Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36"
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.rapidiptv.tvip.xyz/live/XvzOsN3r5F658/Ll0wo1280/9032.m3u8
+
+##http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 ##http://119.82.250.109:8080/nl.m3u8?id=1048
 
