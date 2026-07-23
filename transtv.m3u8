@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
-##https://livestream.transtv.co.id/stream/live/ttv.m3u8
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w212462001_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/transtv.m3u8
@@ -16,3 +15,4 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(02)/index.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683100&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683100&extension=m3u8
+##http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
