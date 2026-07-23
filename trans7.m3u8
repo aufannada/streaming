@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://119.82.250.109:8080/nl.m3u8?id=1002
-##http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
-##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1528991556_b744100_sleng.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w36763164_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ4NDc0MTYxNTcmd293emF0b2tlbmhhc2g9RDM0RFlxRjBjME5PbGo4N3VzbklkWGZTMElaYW1uMllyMThja1BKd1pzbz0=.m3u8
 
 ##https://aufannada.github.io/streaming/trans7.m3u8
 
@@ -19,3 +17,4 @@ http://119.82.250.109:8080/nl.m3u8?id=1002
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Stream(02)/index.m3u8
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683116&extension=m3u8
 ##http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683116&extension=m3u8
+##http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
