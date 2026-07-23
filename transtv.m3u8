@@ -2,15 +2,15 @@
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2117345962_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ4NDczMzcwODQmd293emF0b2tlbmhhc2g9WmZBdm51WUFKLUJkMjMzWmVyMlRuQUlfajRBdUNKUjN3Z3dmNy0zTXJFcz0=.m3u8
-##https://livestream.transtv.co.id/stream/live/ttv.m3u8
-##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w212462001_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/transtv.m3u8
 
+##https://livestream.transtv.co.id/stream/live/ttv.m3u8
+##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w212462001_b744100_sleng.m3u8
+##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w603729918_b744100_sleng.m3u8
 ##http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w603729918_b744100_sleng.m3u8
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(02)/index.m3u8
