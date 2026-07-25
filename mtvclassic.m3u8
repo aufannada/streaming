@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+https://d284aawtm5vi48.cloudfront.net/1080p/index.m3u8
 
+##https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 ##http://206.212.244.63/117/tracks-v1a1/mono.m3u8
 
 ##https://aufannada.github.io/streaming/mtvclassic.m3u8
