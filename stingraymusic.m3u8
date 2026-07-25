@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
+
+##https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
 ##https://aufannada.github.io/streaming/stingraymusic.m3u8
