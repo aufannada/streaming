@@ -1,7 +1,20 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=29.97,BANDWIDTH=6547456
 https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.97,BANDWIDTH=4386304
+https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=856x480,FRAME-RATE=29.97,BANDWIDTH=2225152
+https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=29.97,BANDWIDTH=1144576
+https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/3.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.42c014,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=29.97,BANDWIDTH=780800
+https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/4.m3u8
+
+##EXTM3U
+##EXT-X-VERSION:1
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+##https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1ce3d4d2-e942-4c29-8eed-e6337346a8d9/0.m3u8
 
 ##https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
 
