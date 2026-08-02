@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://202.70.146.135:8000/play/a06r/index.m3u8
+http://202.70.146.135:8000/play/a06r/43946645.m3u8
+
+##http://202.70.146.135:8000/play/a06r/index.m3u8
 
 ##https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 
