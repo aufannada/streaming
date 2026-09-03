@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://119.82.250.109:8080/nl.m3u8?id=1167
-https://op-flashcon-digdayahd-1.dens.tv/h/h19/01.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10000-mp4a_96000=20002.m3u8
 
 ##https://aufannada.github.io/streaming/tvrisport.m3u8
 
+##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ##https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 ##http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
