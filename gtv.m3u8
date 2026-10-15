@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/09.m3u8
 
 ##https://aufannada.github.io/streaming/gtv.m3u8
 
@@ -22,3 +22,4 @@ http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
 ##https://mantul.biz.id:443/ekos/748382/192.m3u8
 ##https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_1000000=3-mp4a_98800_eng=2.m3u8
 ##https://mangga-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_1000000=3-mp4a_98800_eng=2.m3u8
+##http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
