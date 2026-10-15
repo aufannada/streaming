@@ -1,10 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-
-##http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11.m3u8
 
 ##https://aufannada.github.io/streaming/indosiar.m3u8
 
@@ -17,3 +14,5 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 ##http://202.150.172.59:80/Indosiar/tracks-v1a1/mono.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=994885&extension=m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
+##https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+##http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u
