@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
 
 ##https://aufannada.github.io/streaming/inews.m3u8
 
@@ -22,3 +22,4 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 ##https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800=3.m3u8
 ##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157579
 ##http://iptvmedia.live:8080/F31513/0a3204ef/157579
+##https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
