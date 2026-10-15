@@ -1,11 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnM3LXNlYy9zbWlsOnRyYW5zNy5zbWlsL2NodW5rbGlzdF93ODYyMzUyOTQwX2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazRNRGt6TURVeE5URW1kMjkzZW1GMGIydGxibWhoYzJnOVNEVTNWRGM0VDIwMWFsOXlXVVZDY25aaVgyVmZURlF0Wm1od2NHVTBibk42TkVwS1RuSnpVM055TUQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-7&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
-#EXT-X-STREAM-INF:BANDWIDTH=544100,RESOLUTION=854x480
-https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnM3LXNlYy9zbWlsOnRyYW5zNy5zbWlsL2NodW5rbGlzdF93ODYyMzUyOTQwX2I1NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazRNRGt6TURVeE5URW1kMjkzZW1GMGIydGxibWhoYzJnOVNEVTNWRGM0VDIwMWFsOXlXVVZDY25aaVgyVmZURlF0Wm1od2NHVTBibk42TkVwS1RuSnpVM055TUQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-7&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
-#EXT-X-STREAM-INF:BANDWIDTH=344100,RESOLUTION=640x360
-https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnM3LXNlYy9zbWlsOnRyYW5zNy5zbWlsL2NodW5rbGlzdF93ODYyMzUyOTQwX2IzNDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazRNRGt6TURVeE5URW1kMjkzZW1GMGIydGxibWhoYzJnOVNEVTNWRGM0VDIwMWFsOXlXVVZDY25aaVgyVmZURlF0Wm1od2NHVTBibk42TkVwS1RuSnpVM055TUQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-7&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
 ##https://aufannada.github.io/streaming/trans7.m3u8
 
