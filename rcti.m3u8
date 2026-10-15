@@ -1,11 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.137.83.62:9090/play/12/65578089.m3u8
-
-##http://103.137.83.62:9090/play/12/index.m3u8
-
-##http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/26.m3u8
 
 ##https://aufannada.github.io/streaming/rcti.m3u8
 
@@ -27,3 +23,6 @@ http://103.137.83.62:9090/play/12/65578089.m3u8
 ##https://mantul.biz.id:443/ekos/748382/190.m3u8
 ##https://tv.okezone.com/streaming/rcti
 ##https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+##http://103.137.83.62:9090/play/12/65578089.m3u8
+##http://103.137.83.62:9090/play/12/index.m3u8
+##http://103.58.160.157:8278/720-RCTI/playlist.m3u8
