@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://206.212.244.63/61/tracks-v1a1/mono.m3u8
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 ##https://aufannada.github.io/streaming/foodnetwork.m3u8
 
@@ -18,3 +18,4 @@ http://206.212.244.63/61/tracks-v1a1/mono.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/Stream(02)/index.m3u8
+##http://206.212.244.63/61/tracks-v1a1/mono.m3u8
